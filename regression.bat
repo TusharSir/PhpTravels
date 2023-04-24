@@ -1,0 +1,1 @@
+pytest -m "sanity" --html=./Reports/regressionreport.html 
